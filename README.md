@@ -1,4 +1,5 @@
 # P7-Scoring - Implementez & Deployez un scoring modèle
+Part-1. EAD & Modelisation
 
 1. Objectif du projet:
 (voir aussi https://openclassrooms.com/fr/paths/164/projects/632/assignment)
